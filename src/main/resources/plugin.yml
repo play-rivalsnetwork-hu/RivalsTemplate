@@ -1,0 +1,8 @@
+name: RivalsTemplate
+version: '0.1'
+main: 'hu.rivalsnetwork.rivalstemplate.RivalsTemplatePlugin'
+description: RivalsAPI
+api-version: 1.19
+
+softdepend:
+  - PlaceholderAPI
